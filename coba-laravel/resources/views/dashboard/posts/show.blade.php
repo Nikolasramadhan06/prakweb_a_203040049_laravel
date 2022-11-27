@@ -15,8 +15,7 @@
 
 
 
-                <a href="/blog" class="d-block mt-3"><span data-feather="arrow-left" class="align-text-bottom"></span>Back
-                    to Posts</a>
+               
             </div>
         </div>
     </div>
